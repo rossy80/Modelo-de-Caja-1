@@ -1,0 +1,10 @@
+body {
+
+}
+
+div {
+  padding: 40px 20px 70px 100px;
+  border: solid green;
+  border-width: 20px 10px;
+  margin: 120px 60px 30.5px 60px;
+}
